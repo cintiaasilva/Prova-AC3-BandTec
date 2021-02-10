@@ -1,0 +1,33 @@
+pilha e fila são casos particulares de uma lista
+
+arvore-armazenamento de documentos
+lembra como o sistema operacional guarda os diretorios
+quando tem hierarquia
+
+
+em ordem 
+	o1
+       / \
+     2o   o3
+
+
+pré ordem
+	o2
+       / \
+     1o   o3
+
+pós ordem
+	o3
+       / \
+     1o   o2
+
+
+oq define uma arvore ser binaria
+
+uma arvore binaria é uma arvore q cada nó pode ter 2 filhos.
+um nó de uma arvore binaria pode ter 0 filhos?
+sim
+Não pode ter 3 ou mais filhos.
+
+Grau-- numero de filhos do nó 
+o grau é a quantidade de filhos
